@@ -1,8 +1,7 @@
 # Web Scraping on a Schedule with Django & Celery
 
-Learn how to schedule regular web scraping, save the data, and more with Django & Celery.
 
-Topics:
+technologies used:
 
 - Django
 - Celery
@@ -13,7 +12,7 @@ Topics:
 ## Getting Started
 
 ```shell
-git clone https://github.com/codingforentrepreneurs/Django-Celery-Redis
+git clone https://github.com/vedkanaji/scrappy.git
 mv Django-Celery-Redis scrape-scheduler
 cd scrape-scheduler
 ```
